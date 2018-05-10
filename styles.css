@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+
+body {
+    margin:0;
+    padding:0;
+}
+
+#bg {
+    height:700px;
+    width:1250px;
+    margin:0px;
+    padding:0px;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index: -1;
+}
+
+#info {
+    font-family: 'Barrio', cursive;
+    font-size:10em;
+    letter-spacing: 15px;
+    margin: 15px 0px;
+    padding:0;
+    fill:#000000;
+}
+
+
+
